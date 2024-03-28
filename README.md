@@ -1,0 +1,2 @@
+# RepoWithoutSubmodules
+Repository without submodules
